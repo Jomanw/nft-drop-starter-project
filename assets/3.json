@@ -1,0 +1,19 @@
+{
+    "name": "duck",
+    "symbol": "",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "C9PHk4zCTi7drs3iowwRGsJSz4m5NqBa2Wof5ry6v1tu",
+          "share": 100
+        }
+      ]
+    }
+  }
