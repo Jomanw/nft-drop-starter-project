@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import twitterLogo from './assets/twitter-logo.svg';
+// Metaplex candy machine public key: CZWkjoSNifkCLcJqZPG5zXYWyu8g3NmrbRhudfDZNqT2
 
 // Constants
 const TWITTER_HANDLE = '_buildspace';
